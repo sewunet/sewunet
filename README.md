@@ -8,7 +8,7 @@ My name is Sewunet Abebaw  and I'm a software developer. I'm from Ethiopia, livi
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [sewunet.dev](https://sewunet.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/sewunet).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [sewunet.dev](https://sewunet.dev/) as well as on [Medium](https://medium.com/@sewunet92) and [DEV.to](https://dev.to/sewunet).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -59,9 +59,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/sewunet_ab
 [2]: https://github.com/sewunet
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/sewunet/
 
 
 <!-- Resources -->
