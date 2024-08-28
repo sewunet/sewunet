@@ -1,11 +1,3 @@
-Certainly! Here’s a further refined and expanded version of your profile, adding more depth to your achievements, responsibilities, and technical expertise:
-
----
-
-**Sewunet Aebaw**
-
----
-
 ### **Profile**
 
 A seasoned software engineer with over 8 years of diverse experience in designing, developing, and deploying complex enterprise applications. Specializing in Python-based web development, cloud infrastructure, and server-side technologies, with a proven ability to lead projects, innovate solutions, and drive operational excellence.
